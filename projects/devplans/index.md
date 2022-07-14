@@ -45,5 +45,5 @@ DevPlans is a site designed for developers to maintain plans and processes for p
 
 > ### Vision
 >The first step to creating a strong website is to have a vision for your website. What colors do you want? How are similar websites structured? Let’s do some background ideation together!
-> - ![Color Palette](images/DevPlans Color Palette.png)
+> - ![Color Palette](https://github.com/DrVicki/devplans/blob/main/images/DevPlans-Color-Palette.png)
 > - Profits were higher than ever.
